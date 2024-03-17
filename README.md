@@ -5,6 +5,7 @@ Data Extraction from Business Cards using easyOCR | Streamlit GUI | SQL Database
 
 The objective of this project is to develop a Streamlit application that enables users to upload a business card image and extract essential information from it using easyOCR. The extracted information includes the company name, card holder name, designation, mobile number, email address, website URL, area, city, state, and pin code. The extracted details will be displayed in a user-friendly graphical user interface (GUI).
 
+
 **TECHNOLOGIES & TOOLS USED:**
 
 -Python
@@ -14,6 +15,7 @@ The objective of this project is to develop a Streamlit application that enables
 -easyOCR
 
 -Postgres
+
 
 **ETL and EDA PROCESS:**
 
@@ -29,6 +31,7 @@ After the transformation process, the data in the form of dataframe is stored in
 **d) Visualizing, Updating, deleting the data**
 The extracted data can be visualized using matlplotlib and in the form of dataframe.The data can also be updated, modified and deleted from the database.
 
+
 **USER GUIDE**
 
 **Step 1. Home Tab**
@@ -42,6 +45,7 @@ The extracted data can be visualized using matlplotlib and in the form of datafr
 
 **Step 4. Delete Tab**
 -In this page, we can delete the data collected from a business card in database and view the existing data from postgreSQL.
+
 
 **RESULT:**
 
