@@ -8,8 +8,11 @@ The objective of this project is to develop a Streamlit application that enables
 **TECHNOLOGIES & TOOLS USED:**
 
 -Python
+
 -Streamlit
+
 -easyOCR
+
 -Postgres
 
 **ETL and EDA PROCESS:**
